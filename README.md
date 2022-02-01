@@ -3,7 +3,7 @@
 ## Flutter Beautiful Login Web Page UI Design 
 
 ### cover
-![Flutter Beautiful Login Page UI Design Cover](./assets/images/phloxcompany.jpg?raw=true "Flutter Beautiful Login Page UI Design Cover")
+![Flutter Beautiful Login Page UI Design Cover](./assets/flutter_login_ui_amir.jpg?raw=true "Flutter Beautiful Login Page UI Design Cover")
 
 ## Development Setup
 Clone the repository and run the following commands:
@@ -14,7 +14,7 @@ flutter run
 ```
 ## ScreenShots
 
-<img alt="Flutter Beautiful Login Page UI Design Screen shot" src="./assets/images/ui_app.png" height="512em"/>
+<img alt="Flutter Beautiful Login Page UI Design Screen shot" src="./assets/screen_shot.png" height="512em"/>
 
 
 
